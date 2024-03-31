@@ -1,4 +1,4 @@
-import { Stack } from "@mui/material";
+import { Stack, Typography } from "@mui/material";
 import logo from "../assets/diet.png";
 
 function NavBar() {
